@@ -1,0 +1,522 @@
+issue,section,name,pages,reference
+1,guide,The Fellowship,1-3,The Fellowship
+1,guide,"Aragorn, King of Men",4-5,Aragorn
+1,playing,Getting Started,6-7,
+1,scenario,Goblin Ambush,8-13,Wilds; Aragorn; Moria Goblins
+1,painting,Moria Goblins (Part 1),14-17,
+1,modelling special,Making a Basic Battlefield,18-19,
+1,modelling special,Dream Battlefield,20-21,
+2,guide,The Last Alliance,1,
+2,playing,Characteristics,2-7,
+2,scenario,The Last Alliance,8-13,Second Age; Men of Gondor; High Elves; Moria Goblins
+2,painting,Men of Gondor (Part 1),14-15,
+2,painting,Elves (Part 1),16-17,
+2,modelling special,Tools and Materials,18-20,
+2,modelling,Making a Simple Ruins,21,
+3,guide,Frodo and the Ringwraiths,1,
+3,playing,Priority and Movement,2-7,
+3,scenario,Pursuit of the Ringwraiths,8-13,Aragorn; Frodo; Ringwraiths
+3,painting,Frodo Baggins,14-17,
+3,modelling,Hedgerows,18-21,
+4,guide,Fighting Uruk-hai!,1,
+4,playing,The Fight Phase,2-7,
+4,scenario,Elven Attack,8-13,High Elves; Uruk-hai
+4,painting,Uruk-hai Warriors,14-17,
+4,modelling,Making a Hill,18-21,
+5,guide,"Lurtz, Servant of Saruman",1,Lurtz
+5,playing,The Shoot Phase,2-7,
+5,scenario,Hunt of the Uruk-hai,8-13,Aragorn; Frodo; Lurtz; Uruk-hai
+5,painting,Lurtz,14-17,
+5,modelling,Making a Gaming Area,18-21,
+6,guide,"Aragorn, Hero of Helm's Deep",1,Aragorn; Helm's Deep
+6,playing,Movement and Terrain,2-7,
+6,scenario,Defend the Ruins!,8-13,Aragorn; Uruk-hai; Helm's Deep; Ruins
+6,painting,Aragorn (Helm's Deep),14-17,
+6,modelling,Making Ruins,18-21,
+7,guide,Defenders of the Riddermark,1,Eomer; Rohan
+7,playing,Defending Barriers,4-7,
+7,scenario,Repel the Marauders,8-13,Rohan; Uruk-hai
+7,painting,Warriors of Rohan (Part 1),14-17,
+7,modelling,Walls and Fences,18-21,
+8,guide,Weapons of Middle-Earth,Insert,
+8,guide,"Lothlorien, Land of the Elves",1,Galadriel
+8,guide,"Legolas, Woodland Prince",2-3,Legolas
+8,playing,Missile Weapons,4-5,
+8,scenario,Raid on Lothlorien,6-11,Legolas; Frodo; Moria Goblins
+8,painting,Legolas,12-15,
+8,modelling,Trees and Forests,16-21,
+9,guide,The Uruk-hai Invasion of Rohan,1,Uruk-hai
+9,playing,Melee Weapons,2-5,
+9,scenario,Burn the Village,6-8,Aragorn; Legolas; Gimli; Rohan; Uruk-hai
+9,battle report,Burn the Village (Part 1),9-13,
+9,painting special,Basic Techniques,14-16,
+9,painting,Uruk-hai Captain,17,
+9,modelling,Warning Beacon,18-21,
+10,guide,The Creation of Saruman's Army,1,Lurtz
+10,playing,Courage,2-5,
+10,battle report,Burn the Village (Part 2),6-13,
+10,painting special,Batch Painting,14-15,
+10,modelling,A Rohirrim Building,16-21,
+11,guide,"Boromir, Captain of Gondor",1,Boromir
+11,playing,"Heros, Might and Fate",2-7,
+11,scenario,Ambush at Amon Hen,8-13,The Fellowship; Uruk-hai; Lurtz
+11,painting,Boromir,14-17,
+11,modelling,Making a Standing Stone,18-21,
+12,guide,Gandalf the Grey,1,Gandalf
+12,playing,Magic and Will,2-7,
+12,scenario,Clash of Wills,8-13,Gandalf; Ringwraiths; Weathertop; Amon-Sul
+12,painting,Gandalf the Grey,14-17,
+12,modelling,A hilltop Ruin,18-21,
+13,guide,The Lands of the Riddermark,1,Rohan
+13,playing,Battlefield Tactics,2-7,
+13,scenario,Wizards' Duel,8-13,Gandalf; Saruman; Orthanc; Palantir
+13,painting,Rohan Horses,14-17,Rohan; Horses; Patterns and Marking
+13,modelling special,Scenic Details,18-21,
+// Binder 2
+14,guide,The Riders of Rohan,1,
+14,playing,Cavalry,2-7,
+14,scenario,Attack at the Ford,8-13,Rohan; Uruk-hai
+14,painting,The Riders of Rohan,14-17,
+14,modelling,Rivers and Fords,18-21,
+15,guide,"Isengard, Stronghold of Saruman",1,
+15,guide,Master of Orthanc,2-3,Saruman
+15,playing,Saruman the White and Gandalf the Grey,4-5,
+15,scenario,The Gap of Rohan,6-8,The Fellowship; Rohan; Uruk-hai; Lurtz; Ugluk; Moria Goblins
+15,battle report,The Gap of Rohan (Part 1),9-13,
+15,painting,Saruman the White,14-17,
+15,modelling,Making Bridges,18-21,
+TTTSE,guide,Gandalf the White,1,Gandalf
+TTTSE,scenario,Battle for Helm's Deep,2-17,Rohan; Helm's Deep; Uruk-hai; Theoden; Eomer; Gamling
+TTTSE,battle report,Battle for Helm's Deep,5-17,
+TTTSE,painting,Gandalf the White (On Shadowfax),18-21,Gandalf; Shadowfax
+16,guide,"Ugluk, Captain of the Uruk-hai",1,Ugluk
+16,army list,The Forces of Isengard,2-5,Isengard
+16,battle report,The Gap of Rohan (Part 2),6-13,
+16,painting,Ugluk,14-17,
+16,modelling,Outcrops and Ridges,18-21,
+17,guide,"Grishnakh, Champion of Mordor",1,
+17,playing,Creating Scenarios,2-5,
+17,scenario,A Theif in the Night,6-11,Mordor Orcs; Uruk-hai; Fangorn; Rohan
+17,painting,Grishnakh,12-15,
+17,modelling,Fangorn Forest,16-21,
+18,guide,"Eomer, Marshall of the Riddermark",1,
+18,army list,The Forces of Rohan,2-7,
+18,scenario,The Wrath of Rohan!,8-13,Eomer; Rohan; Uruk-hai; Mordor Orcs; Merry; Pippin; Fangorn
+18,painting,Eomer (Mounted),14-17,Eomer; Horses
+18,modelling,Wilderness Campsite,18-21,
+19,guide,The Walls of Moria,1,
+19,playing,Linking Battle Games,2-5,
+19,scenario,The Watcher in the Water,6-11,Moria; The Watcher; The Fellowship
+19,painting special,Colour Palettes,12-15,
+19,modelling,Lakes and Shores,16-21,
+20,guide,The Mines of Moria,1,Moria; Moria Goblins
+20,army list,The Forces of Moria,2-5,
+20,scenario,Lost in the Dark,6-9,Moria; The Fellowship; Moria Goblins
+20,painting,Moria Goblins (Part 2),10-13,
+20,modelling,Dwarven Mines,14-21,
+21,guide,"Gimli, Dwarven Hero",1,Gimli
+21,army list,Warriors of the Fellowship,2-3,Aragorn; Legolas; Gimli
+21,scenario,Balin's Tomb,4-7,Moria; The Fellowship; Moria Goblins; Cave Trolls
+21,painting,Gimli,8-11,
+21,modelling,Balin's Tomb,12-21,
+22,guide,The Bridge of Khazad-dum,1,Moria
+22,playing,Theming your Forces,2-5,Moria
+22,scenario,The Bridge of Khazad-dum,6-9,Moria; The Fellowship; Moria Goblins; Balrog
+22,campaign,The Moria Campaign,10-11,
+22,painting special,Painting Armies,12-15,
+22,modelling,Khazad-dum,16-21,
+23,guide,The Realm of Gondor,1,Knights of Gondor
+23,army list,Gondor,2-5,
+23,scenario,Open War,6-9,Pelennor Fields; Gondor; Rohan; Uruk-hai; Moria Goblins; Mordor Orcs
+23,battle report,Open War! (Part 1),10-15,
+23,painting,Warriors of Minas Tirith (Part 1),16-17,
+23,modelling special,Tools and Materials,18-21,
+24,guide,The Lands of Mordor,1,Mordor
+24,army list,Forces of Mordor,2-5,Mordor
+24,battle report,Open War! (Part 2),6-13,
+24,painting,Mordor Orcs (Part 1),14-17,
+24,modelling special,The Bits Box,18-21,
+25,guide,Concerning Hobbits,1-3,Sam; Frodo
+25,army list,Hobbits of the Shire,4-7,
+25,scenario,Escape from Osgiliath,8-11,Osgiliath; Warriors of Gondor;Mordor Orcs;Frodo;Sam
+25,painting,Samwise Gamgee,12-15,Samwise;Frodo
+25,modelling,Osgiliath Sewers,16-21,
+// Binder 3
+26,guide,Rangers of Gondor,1,
+26,army list,Lords of Gondor,2-5,
+26,playing,Volley Fire,6-7,
+26,scenario,Ambush in Ithilien,8-11,Ithilien; Faramir; Gondor Rangers; Mordor Orcs
+26,painting,Faramir (Ranger),12-15,
+26,modelling,Pathways and Roads,16-21,
+27,guide,March on Helm's Deep,1,
+27,playing,Siege Games,2-9,
+27,scenario,Hold the Fort,10-13,Rohan; Uruk-hai; Eomer
+27,painting,Uruk-hai siege Troops,14-15,
+27,modelling,Palisade Fort,16-21,
+28,guide,Haldir at Helms Deep,1,Haldir; Helm's Deep
+28,playing,Fighting in a Fortress,2-5,
+28,scenario,The Helm's Deep Campaign,6-11,
+28,painting,Haldir,12-15,
+28,modelling,Fortress Walls and Towers,16-21,
+29,guide,"Theoden, King of Rohan",1,Theoden
+29,playing,Assaulting the Battlements,2-5,
+29,scenario,The Deeping Wall,6-11,Helm's Deep; Rohan; Wood Elves; Uruk-hai
+29,painting,King Theoden,12-15,
+29,modelling,The Gatehouse,16-21,
+30,guide,Uruk-hai Berserker,1,Berserker
+30,playing,The Fortress,2-5,
+30,scenario,Retreat to the Halls,6-13,Helm's Deep; Rohan; Uruk-hai
+30,painting,Uruk-hai Berserker,14-15,
+30,modelling,The Fortress Keep,16-21,
+31,guide,The Heros of Helm's Deep,1,Theoden
+31,playing,Siege Weapons,2-5,Demolition Charge; Battering Ram; Siege Balista
+31,battle report,Retreat to the Halls,6-13,
+31,painting special,An Uruk-hai Army,14-15,
+31,modelling,Fortress Tower,16-21,
+32,guide,Brave Little Hobbits,1,Merry; Pippin; Treebeard
+32,army list,The Last March of the Ents,2-3,
+32,scenario,Breach the Dam,4-9,Isengard; Treebeard; Merry; Pippin; Uruk-hai; Orcs
+32,painting,Merry and Pippin,10-15,
+32,modelling,Dam at Isengard,16-21,
+33,guide,The battle for Osgiliath,1,
+33,playing,Different Ways to Play,2-5,
+33,scenario,Besieged!,6-11,Osgiliath
+33,army list,The Siege of Osgiliath,10-11,Osgiliath; Warriors of Gondor; Mordor Orcs
+33,painting,Soldiers of Gondor (Part 2),12-15,
+33,modelling,Ruins of Osgiliath,16-21,
+34,guide,Osgiliath has fallen!,1,Osgiliath
+34,playing,Banners,2-5,
+34,scenario,Defend the Bridge,6-11,Osgiliath
+34,painting,Gondorian Banner Bearer,12-13,
+34,modelling,Osgiliath Bridge,14-21,
+35,guide,"Galadriel, Elf Queen of Lothorien",1,
+35,army list,The Forces of Lothlorien,2-5,
+35,scenario,Crossing the Silverlode,6-11,Lothlorien; The Fellowship; Wood Elves; Moria Goblins
+35,painting,The Lady Galadriel,12-13,
+35,modelling,Elven Tree Platform,14-21,
+36,guide,Ancient Elves of Middle-earth,1,Elrond
+36,playing,Army of Lorien,2-5,Tactics; Lorien; Wood Elves
+36,scenario,Watchpost Attack,6-9,High Elves; Wood Elves; Mordor Orcs; Moria Goblins
+36,painting,Elrond,10-13,
+36,modelling,Elven Watchpost,14-21,
+37,guide,The Ringwraiths,1,
+37,army list,The Ringwraiths,2-5,
+37,scenario,Flight to the Ferry,6-9,Bucklebury Ferry; Frodo; Sam; Merry; Pippin; Ringwraiths
+37,scenario,Attack at Weathertop,10-11,Weathertop; Amon-Sul; Aragorn; Frodo; Sam; Merry; Pippin; Ringwraiths
+37,painting,The Witch King of Angmar,12-13,
+37,modelling,Amon Sul,14-20,
+37,modelling,Bucklebury Ferry,21,
+38,guide,"Wormtongue, Agent of Saruman",1,
+38,army list,Grima Wormtongue,2-3,
+38,scenario,Assault on Orthanc,4-7,Isengard; Orthanc; Rohan; Theoden; Saruman; Gandalf
+38,battle report,Assault on Orthanc (Part 1),8-11,
+38,painting,Grima Wormtongue,12-15,
+38,modelling,Saruman's Industry,16-21,
+// Binder 4
+39,guide,Gandalf the White,1,
+39,army list,Wizards of Middle-earth,2-3,
+39,battle report,Assault on Orthanc (Part 2),4-11,
+39,painting,Gandalf the White,12-15,
+39,modelling,The Tower of Orthanc,16-21,
+40,guide,Wolves of Isgengard,1,
+40,playing,Mounted Warriors,2-5,
+40,scenario,Retreat from Edoras,6-11,Rohan; Rohirrim; Warg Riders
+40,painting,Rohan Royal Guard (Mounted),12-16,
+40,painting special,Creating Banner Bearers,17,
+40,modelling,Barrows,18-21,
+41,guide,Creatures of Darkness,1,Trolls
+41,army list,Monsters of Mordor,2-5,
+41,scenario,River Assault,6-13,Osgiliath; Faramir; Rangers of Gondor; Warriors of Gondor; Mordor Orcs
+41,painting,Minions of Sauron (Part 2),14-15,Mordor Orcs
+41,modelling,Mordor Assault Boat,16-21,
+42,guide,Overrun by Mordor!,1,
+42,playing,The Army of Mordor,2-5,Tactics
+42,scenario,Battle in the Ruins,6-13,Osgiliath; Warriors of Gondor; Mordor Orcs; Mordor Trolls
+42,painting,Mordor Orc Banner Bearer,14-15,
+42,modelling,Osgiliath Tower,16-21,
+43,guide,The Failure of Faramir,1,
+43,playing,The Army of Gondor,2-5,Tactics
+43,scenario,Retreat from Osgiliath,6-11,Osgiliath; Faramir; Warriors of Gondor; Mordor Orcs
+43,painting,Captain Faramir (Mounted),12-15,
+43,modelling,Gondorian Roads,16-19,
+43,modelling,Gondorian Bridge,20-21,
+44,guide,The Last Alliance,1,
+44,playing,Grand Strategies,2-5,
+44,scenario,Battle in Gorgoroth,6-9,Mordor; The Last Alliance; Mordor Orcs
+44,painting,High Elves and Men (Part 2),10-15,
+44,modelling,Plains of Mordor,16-21,
+45,guide,Sauron's Treachery,1-3,
+45,army list,Elves of the Last Alliance,4-7,
+45,scenario,Sauron The Deceiver,8-13,Mordor; The Last Alliance; Mordor Orcs
+45,painting,Gil-galad,14-17,
+45,modelling,Mordor Lava Flow,18-21,
+46,guide,The Fall of Sauron,1,
+46,army list,Forces of Sauron,2-5,
+46,scenario,The Last Alliance,6-13,Mordor; The Last Alliance; Sauron
+46,painting,King Elendil,14-17,
+46,modelling special,Your Own Projects,18-21,
+47,guide,Isildur's Bane,1,
+47,army list,Men of The Last Alliance,2-5,
+47,battle report,The Last Alliance,6-13,
+47,painting,Isildur,14-17,
+47,modelling,Mountains of Mordor,18-21,
+TROTKE,guide,The Return of the King,1,
+TROTKE,scenario,Assault on Minas Tirith,2-3,Gondor; Minas Tirith
+TROTKE,battle report,Assault on Minas Tirith,4-17,
+TROTKE,painting,Aragorn Elessar (Mounted),18-21,Aragorn; Brego
+48,guide,Scourge of Middle-earth,1,
+48,playing,Competitive Play,2-5,
+48,scenario,Defend the Garrison,6-11,
+48,painting,Gorbag,12-15,
+48,modelling,Garrison Outpost,16-21,
+49,guide,Pass of the Spider,1,
+49,playing,Battle Game Tactics,2-5,
+49,scenario,Treachery at Cirith Ungol,6-11,Mordor; Cirith Ungol; Uruk-hai; Mordor Orcs; Sam
+49,painting,Shagrat,12-15,
+49,modelling,The Tower of Cirith Ungol,16-21,
+50,guide,Rohan Enslaved,1,
+50,playing,Special Scenario Rules,2-5,
+50,campaign,Saruman's War Campaign,6-11,
+50,scenario,Message to Edoras,9,Rohan
+50,painting,Soldiers of Rohan (Part 2),12-15,
+50,modelling,Rohan Cottages,16-21,
+// Binder 5
+51,guide,Banners of Rohan,1,Gamling
+51,playing special,Specialised Scenarios,2-5,
+51,scenario,Restore the King,6-11,
+51,painting,Gamling,12-13,
+51,modelling,Meduseld,14-21,
+52,guide,Shieldmaiden of Rohan,1,Eowyn
+52,playing,The Army of Isgengard,2-5,Tactics
+52,scenario,Assault on Edoras,6-13,Rohan; Edoras; Meduseld; Uruk-hai
+52,battle report,Assault on Edoras (Part 1),??,
+52,painting,Eowyn,14-17,
+52,modelling,Rohan Palisades,18-21,
+53,guide,Loyal to Rohan,1,Hama
+53,playing,The Army of Rohan,2-5,Tactics
+53,battle report,Assault on Edoras (Part 2),6-13,
+53,painting,Hama,14-15,
+53,modelling,Rohan Toweres and Gates,16-21,
+54,guide,"Gwaihir, The Windlord",1,Eagles; Gwaihir
+54,playing,Flying Creatures,2-3,
+54,scenario,Escape from Orthanc,4-7,Orthanc; Isengard; Gandalf; Saruman; Eagles; Orcs
+54,painting special,Painting Techniques,8-13,
+54,modelling special,Modelling Techniques,14-21,
+55,guide,The White Tree of Gondor,1,
+55,playing,Competitive Armies,2-7,
+55,scenario,Competitive Scenario,8-13,Rohan
+55,painting,Minas Tirith Banner Bearer (Mounted),14-15,
+55,modelling,Walls of Minas Tirith,16-21,
+56,guide,Lieutenant of Mordor,1,Gothmog
+56,playing,The Siege of Minas Tirith,2-7,
+56,scenario,Break the Gates!,8-13,Minas Tirith; Gondor; Gandalf; Mordor Orcs
+56,painting,Gothmog,14-17,
+56,modelling,Minas Tirith City Gates,18-21,
+57,guide,Kingdom of Men,1-3,
+57,playing special,Gaming Clubs,4-9,
+57,scenario,Assassinate the Steward!,10-15,Denethor; Warriors of Gondor
+57,painting,Denethor,16-17,
+57,modelling,The Fountain Court,18-21,
+58,guide,The Shadow of Mordor,1,
+58,playing,Battlefields,2-7,
+58,scenario,Rescue the Prisoners,8-13,Mordor; Faramir; Rangers of Gondor; Mordor Orcs
+58,painting,Orc Captain,14-17,
+58,modelling,Orc Encampment,18-21,
+59,guide,The Fate of Faramir,1,
+59,campaign,The Lord of the Rings,2-7,
+59,scenario,The Doomed Charge,8-13,Osgiliath; Gondor; Knights of Gondor; Faramir; Mordor Orcs
+59,painting,Captain Faramir (On foot),14-15,
+59,modelling,Gondorian Buildings,16-21,
+60,guide,Lords of Gondor,1,
+60,playing,The Council of Elrond,2-5,
+60,scenario,War in Osgiliath,6-11,Osgiliath; Gondor; Warriors of Gondor; Boromir
+60,painting,Captain Boromir,12-15,
+60,modelling,Siege Engines,16-21,
+61,guide,"Aragorn, Ranger of the North",1,
+61,campaign,The Long Dark of Moria,2-5,
+61,scenario,Escape from Bree,6-9,Bree; Aragorn; Frodo; Sam; Merry; Pippin; Ringwraiths
+61,painting,Strider,10-13,
+61,modelling,The Village of Bree,14-21,
+62,guide,Bilbo Baggins,1,
+62,campaign,The Fellowship Breaks,2-7,
+62,scenario,Ambush in Hobbiton,8-13,The Shire; Bilbo; Gandalf; Frodo; Sam; Merry; Pippin; Ringwraiths
+62,painting,Bilbo Baggins,14-17,
+62,modelling,Hobbit Holes,18-21,
+63,guide,Gollum and The Ring,1,
+63,army list,Gollum,2-3,
+63,scenario,The Forbidden Pool,4-7,Ithilien; Faramir; Gondor Rangers; Frodo; Sam; Gollum; Mordor Orcs
+63,scenario,Shelob's Lair,8-11,Mordor; Shelob; Frodo; Sam; Gollum
+63,painting,Gollum,12-15,
+63,modelling,The Forbidden Pool,16-21,
+// Binder 6
+64,guide,Eomer and Eowyn,1,
+64,playing special,Tournaments,2-7,
+64,scenario,Escape from Edoras,8-13,Edoras;Rohan;Eomer;Grima
+64,painting,Eomer of Rohan (On foot),14-17,
+64,modelling,Rohan Royal Stable,18-21,
+65,guide,Theodred,1,
+65,playing,Battlefield Effects,2-7,
+65,scenario,The Fords of Isen,8-13,Theodred;Rohan;Eomer;Uruk-hai;Warg Riders;Orcs
+65,painting,Theodred (Mounted),14-17,
+65,modelling,Winter Terrain,18-21,
+66,guide,Charge of the Rohirrim,1,Riders of Rohan
+66,playing,Map Campaigns,2-7,
+66,battle report,Battle for Middle-earth (Part 1),8-15,Isengard;Rohan;Gondor;Mordor
+66,painting special,Rohan Conversions,16-17,
+66,modelling,Destroyed Cottages,18-21,
+67,guide,The Wild Men,1,Men of Dunland
+67,campaign,The Two Towers,2-7,
+67,battle report,Battle for Middle-earth (Part 2),8-13,
+67,painting,Horses of Middle-earth,14-15,
+67,modelling,Dunland Hovels,16-21,
+68,guide,Creatures of Evil,1,
+68,campaign,The War for Rohan (Part 2),2-7,
+68,scenario,Warg Hunt!,8-11,Rohan;Warg Riders
+68,painting,Wargs,12-15,
+68,modelling,Realistic Landscapes,16-21,Hedgerows;Fences;Hills;Trees
+69,guide,The Evil of Saruman,1,
+69,campaign,The Fate of Rohan (Part 3),2-9,
+69,scenario,Baggage Train Raid,10-15,Rohan;Sharku;Warg Riders;Riders of Rohan
+69,painting,Warg Riders,16-17,
+69,modelling,Baggage Train,18-21,Baggage Train
+70,guide,Soldiers of Sauron,1,Haradrim
+70,army list,Warriors of Evil,2-7,
+70,scenario,Siege of Minas Tirith,8-15,Minas Tirith
+70,battle report,Siege of Minas Tirith (Part 1),??,
+70,painting,Haradrim,16-19,
+//refs to 44
+70,modelling,The Pelennor Fields,20-21,Pelennor Fields
+71,guide,Oath-breakers,1-3,King of the Dead
+71,army list,Army of the Dead,4-5,
+71,battle report,Siege of Minas Tirith (Part 2),6-13,
+71,painting,The King of the Dead,14-17,
+71,modelling,Pelennor Details,18-21,
+72,guide,The Siege of Gondor,1,Morgul Orcs
+72,playing,Towers of Mordor,2-3,
+72,battle report,Siege of Minas Tirith (Part 3),4-11,
+72,painting,The Morgul Horde (Part 3),12-13,Morgul Orcs
+72,painting special,Large Models,14-17,Trolls;Fell Beast;Shelob
+72,modelling,Siege Towers,18-21,
+73,guide,Heros of the Shire,1,Merry;Pippin
+73,playing,Battle Companies (Part 1),2-9,Gondor;Mordor
+73,scenario,Defend the Walls,10-13,Minas Tirith;Gondor
+73,painting,Merry and Pippin (In armour),14-17,
+73,modelling special,Modelling Details,18-21,
+TFOTRE,guide,Journey to Rivendell,1,Arwen
+TFOTRE,campaign,The Road to Rivendell,2-17,
+TFOTRE,scenario,Race to Bruinen Ford,5-7,Bruinen;Arwen;Frodo;Ringwraiths
+TFOTRE,painting,Arwen Evenstar (Mounted with Frodo),18-21,
+74,guide,The Witch-king of Angmar,1,Witch King
+74,playing,Battle Companies (Part 2),2-9,Rohan;Isengard;Moria
+74,scenario,King Slayer,10-13,
+74,painting,The Witch-king (With crown),14-15,
+74,modelling special,Modelled Boards,16-21,
+75,guide,Heros of Middle-earth,1,Gondor;Veteran Warrior
+75,playing,Battle Companies (Part 3),2-7,Magician;Orc Shaman;Elven Scout;Cave Trolls;Dwarf Adventurer
+75,scenario,Daring Rescue,9,
+75,scenario,Deadly Hunt,10,
+75,scenario,Patrol the Wilds,11,
+75,scenario,Claim the Battlefield,12,
+75,scenario,None Shall Pass!,13,
+75,painting special,Converting Heros,14-17,Gothmog's Lieutenant
+75,modelling special,Dioramas,18-21,
+// Binder 7
+76,guide,Corsairs of Umbar,1,Corsair Galley; Legolas
+76,campaign,The Return of the King,2-7,
+76,scenario,Capture the Fleet,8-11,Aragorn;Legolas;Gimli;Corsairs of Umbar
+76,painting,Legolas (With cloak),12-15,
+76,modelling,Corsair Galley,16-21,
+77,guide,The Black Gate,1,Mordor;Easterlings
+77,campaign,The Battle for Gondor,2-5,
+77,scenario,The End of All Things,6-13,Mordor;Black Gate;Mount Doom
+77,battle report,The End of All Things (Part 1),12-13,
+77,painting,Easterling Captain,14-17,
+77,modelling,The Black Gate,18-21,
+78,guide,The Final Battle,1,Aragorn
+78,campaign,The Third Age Ends,2-5,
+78,campaign special,The Lord of the Rings Campaign,4,
+78,battle report,The End of All Things (Part 2),6-13,
+78,painting,"Aragorn, King Elessar (On foot)",14-17,
+78,modelling,Mount Doom,18-21,
+79,guide,Wizards of Middle-earth,1,Radagast
+79,army list,Master of the Wild,2-5,
+79,scenario,Kill the Wizard,6-11,Mirkwood;Radagast;Gwaihir;Treebeard;Ents;Uruk-hai;Warg Riders
+79,painting,The Brown Wizard,12-15,
+79,modelling,Radagast's Cabin,16-21,
+80,guide,Tom Bombadil,1,Tom Bombadil;Goldberry
+80,army list,The Barrow-downs,2-3,
+80,army list,Tom Bombadil & Goldberry,4-5,
+80,scenario,Fog on the Downs,6-13,The Barrow Downs;Tom Bombadil;Frodo;Sam;Merry;Pippin;Barrow-wights
+80,painting,Tom Bombadil,14-17,
+80,modelling,Ancient Tombs,18-21,
+81,guide,The Long Retreat,1,Glorfindel
+81,army list,Defenders of Rivendell,2-5,
+81,scenario,Surrounded!,6-11,Rivendell;High Elves;Moria Goblins;Mordor Orcs
+81,painting,Glorfindel,12-15,
+81,modelling,Rivendell Hall,16-21,
+82,guide,The Eye of Saruron,1,
+82,army list,Shamans of Darkness,2-5,
+82,campaign,Rivendell Campaign,6-13,
+82,scenario,Ambush!,8-9,
+82,scenario,Rescue,10-11,
+82,scenario,Revenge,12-13,
+82,painting,Orc Shaman,14-17,
+82,modelling,The Desecrated Statue,18-21,
+83,guide,The Long Decline,1,Dwarf Captain
+83,army list,Forces of the Dwarves,2-7,
+83,campaign,Into the Depths,8-11,Moria;Dwarves;Moria Goblins;Cave Trolls
+83,scenario,Patrol,10,
+83,scenario,Recover the Artefacts,10,
+83,scenario,Kill the Beast,11,
+83,painting,Dwarf Captain,12-15,
+83,modelling,Moria Ruins,16-21,
+84,guide,The Invasion of Moria,1,King Durburz
+84,army list,Drums in the Deep,2-3,
+84,campaign,Balin's Campaign,4-11,
+84,scenario,Gateway to the Goblin Realm,6-7,
+84,scenario,Rescue the Dwarf Prisoners,8-9,
+84,scenario,Kill the Goblin King,10-11,
+84,painting,The Goblin King,12-15,
+84,modelling,Goblin King's Lair,16-21,
+85,guide,"Balin, Lord of Moria",1,Balin
+85,playing,Armies pf the Dwarves,2-5,
+85,scenario,The Balrog Unleashed!,6-11,Moria;Balrog;Moria Goblins;Dwarves;Balin
+85,battle report,Balin's Campaign,10-11,
+85,painting,Balin,12-15,
+85,modelling,The Balrog's Lair,16-21,
+86,guide,The Haradrim,1,Suladan
+86,army list,Lords of Harad,2-5,
+86,scenario,Ambush in the Wastes,6-9,Harad
+86,scenario,Defend the Oasis,10-13,Harad
+86,painting,Suladan,14-17,
+86,modelling,Desert Boards,18-21,
+87,guide,Assassination and Murder,1,Hasharin
+87,playing,Forces Strategies,2-5,
+87,scenario,Desert Siege,6-9,Harad;Warriors of Gondor
+87,painting,Hasharin,10-13,
+87,modelling,Haradrim City,14-21,
+88,guide,The Citadel of Dol Amroth,1,Prince Imrahil
+88,army list,Forces of Dol Amroth,2-7,
+88,scenario,Defend the Fortress,8-11,South Gondor;Dol Amroth;Haradrim
+88,painting,Prince Imrahil,12-13,
+88,modelling,Border Fortress,14-21,
+// Binder 8
+89,guide,Woses of the Wood,1,Ghan-buri-Ghan
+89,army list,Ghan-buri-Ghan,2-3,
+89,playing,Traps,4-7,
+89,campaign,The Dangerous Journey,8-13,Druadan Forest;Rohan;Mordor Orcs
+89,scenario,The Secret Road,10-11,Druadan Forest;Rohan;Mordor Orcs
+89,scenario,Woodland Ambush,12-13,Druadan Forest;Rohan;Mordor Orcs
+89,painting,Ghan-buri-Ghan,14-17,
+89,modelling,Traps,18-21,
+90,guide,The scouring of the Shire,1,Farmer Maggot;The Shire
+90,army list,Hobbits of the Shire,2-5,
+90,scenario,Battle for the Shire,6-13,The Shire;Sharkey;Worm;Ruffians;Hobbits;Frodo;Sam;Merry;Pippin;Farmer Maggot
+90,battle report,Battle for the Shire (Part 1),10-13,
+90,painting,Farmer Maggot,14-17,
+90,modelling,Ravaged Shire,18-21,
+91,guide,Journey's End,1,Sharkey
+91,army list,Sharkey's Rogues,2-3,
+91,battle report,Battle for the Shire (Part 2),4-11,
+91,painting,Sharkey,12-13,
+91,modelling,Industrial Mill,14-21,
