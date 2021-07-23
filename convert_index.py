@@ -35,40 +35,52 @@ def format_list(data):
 
 
 with open('index.md', 'w') as file:
-    file.write(', '.join(list(data.keys())))
+    file.write('# Battle Games In Middle-earth Contents list and Index')
+    file.write("""Here is a complete list of the articles in the BGIME magazines
+    grouped by category\n
+    [Guide](#Guides)\n
+    [Rules](#Rules)\n
+    [Army Lists](#Army-Lists)\n
+    [Campaigns](#Campaigns)\n
+    [Scenarios](#Scenarios)\n
+    [Battle Reports](#Battle-Reports)\n
+    [Painting](#Painting)\n
+    [Modelling](#modelling)\n
+    """)
     file.write('\n')
-    file.write('# Guides\n')
+    file.write('## Guides\n')
     file.writelines(format_list(data['guide']))
     file.write('\n')
-    file.write('# Rules\n')
+    file.write('## Rules\n')
     file.writelines(format_list(data['playing special']))
     file.write('\n')
     file.writelines(format_list(data['playing']))
     file.write('\n')
-    file.write('# Army Lists\n')
+    file.write('## Army Lists\n')
     file.writelines(format_list(data['army list']))
     file.write('\n')
-    file.write('# Campaigns\n')
+    file.write('## Campaigns\n')
     file.writelines(format_list(data['campaign special']))
     file.write('\n')
     file.writelines(format_list(data['campaign']))
     file.write('\n')
-    file.write('# Scenarios\n')
+    file.write('## Scenarios\n')
     file.writelines(format_list(data['scenario']))
     file.write('\n')
-    file.write('# Battle Reports\n')
+    file.write('## Battle Reports\n')
     file.writelines(format_list(data['battle report']))
     file.write('\n')
-    file.write('# Painting\n')
+    file.write('## Painting\n')
     file.writelines(format_list(data['painting special']))
     file.write('\n')
     file.writelines(format_list(data['painting']))
     file.write('\n')
-    file.write('# Modelling\n')
+    file.write('## Modelling\n')
     file.writelines(format_list(data['modelling special']))
     file.write('\n')
     file.writelines(format_list(data['modelling']))
-    file.write('\n')
+    file.write('\n\n')
+    file.write('# Index\n')
     for k, v in sorted(index.items()):
         i = ", ".join(x[0] for x in v)
-        file.write(f'{k} - {i}\n')
+        file.write(f'* {k} - {i}\n')

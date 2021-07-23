@@ -1,5 +1,24 @@
-guide, playing, scenario, painting, modelling special, modelling, battle report, painting special, army list, campaign, playing special, campaign special
-# Guides
+# Battle Games In Middle-earth Contents list and IndexHere is a complete list of the articles in the BGIME magazines
+    grouped by category
+
+    [Guide](#Guides)
+
+    [Rules](#Rules)
+
+    [Army Lists](#Army-Lists)
+
+    [Campaigns](#Campaigns)
+
+    [Scenarios](#Scenarios)
+
+    [Battle Reports](#Battle-Reports)
+
+    [Painting](#Painting)
+
+    [Modelling](#modelling)
+
+    
+## Guides
 * 1      - The Fellowship                                     -   p1-3
 * 1      - Aragorn, King of Men                               -   p4-5
 * 2      - The Last Alliance                                  -     p1
@@ -99,7 +118,7 @@ guide, playing, scenario, painting, modelling special, modelling, battle report,
 * 90     - The scouring of the Shire                          -     p1
 * 91     - Journey's End                                      -     p1
 
-# Rules
+## Rules
 * 51     - Specialised Scenarios                              -   p2-5
 * 57     - Gaming Clubs                                       -   p4-9
 * 64     - Tournaments                                        -   p2-7
@@ -155,7 +174,7 @@ guide, playing, scenario, painting, modelling special, modelling, battle report,
 * 87     - Forces Strategies                                  -   p2-5
 * 89     - Traps                                              -   p4-7
 
-# Army Lists
+## Army Lists
 * 16     - The Forces of Isengard                             -   p2-5
 * 18     - The Forces of Rohan                                -   p2-7
 * 20     - The Forces of Moria                                -   p2-5
@@ -190,7 +209,7 @@ guide, playing, scenario, painting, modelling special, modelling, battle report,
 * 90     - Hobbits of the Shire                               -   p2-5
 * 91     - Sharkey's Rogues                                   -   p2-3
 
-# Campaigns
+## Campaigns
 * 78     - The Lord of the Rings Campaign                     -     p4
 
 * 22     - The Moria Campaign                                 - p10-11
@@ -210,7 +229,7 @@ guide, playing, scenario, painting, modelling special, modelling, battle report,
 * 84     - Balin's Campaign                                   -  p4-11
 * 89     - The Dangerous Journey                              -  p8-13
 
-# Scenarios
+## Scenarios
 * 1      - Goblin Ambush                                      -  p8-13
 * 2      - The Last Alliance                                  -  p8-13
 * 3      - Pursuit of the Ringwraiths                         -  p8-13
@@ -307,7 +326,7 @@ guide, playing, scenario, painting, modelling special, modelling, battle report,
 * 89     - Woodland Ambush                                    - p12-13
 * 90     - Battle for the Shire                               -  p6-13
 
-# Battle Reports
+## Battle Reports
 * 9      - Burn the Village (Part 1)                          -  p9-13
 * 10     - Burn the Village (Part 2)                          -  p6-13
 * 15     - The Gap of Rohan (Part 1)                          -  p9-13
@@ -333,7 +352,7 @@ guide, playing, scenario, painting, modelling special, modelling, battle report,
 * 90     - Battle for the Shire (Part 1)                      - p10-13
 * 91     - Battle for the Shire (Part 2)                      -  p4-11
 
-# Painting
+## Painting
 * 9      - Basic Techniques                                   - p14-16
 * 10     - Batch Painting                                     - p14-15
 * 19     - Colour Palettes                                    - p12-15
@@ -434,7 +453,7 @@ guide, playing, scenario, painting, modelling special, modelling, battle report,
 * 90     - Farmer Maggot                                      - p14-17
 * 91     - Sharkey                                            - p12-13
 
-# Modelling
+## Modelling
 * 1      - Making a Basic Battlefield                         - p18-19
 * 1      - Dream Battlefield                                  - p20-21
 * 2      - Tools and Materials                                - p18-20
@@ -532,145 +551,147 @@ guide, playing, scenario, painting, modelling special, modelling, battle report,
 * 90     - Ravaged Shire                                      - p18-21
 * 91     - Industrial Mill                                    - p14-21
 
- - 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 6, 6, 6, 7, 7, 7, 8, 8, 8, 8, 9, 9, 9, 9, 9, 10, 10, 10, 10, 11, 11, 11, 12, 12, 12, 13, 13, 14, 14, 14, 14, 15, 15, 15, 15, 15, TTTSE, 16, 16, 16, 17, 17, 17, 17, 18, 18, 18, 19, 19, 19, 19, 20, 20, 20, 21, 21, 22, 22, 22, 23, 23, 23, 23, 24, 24, 24, 25, 25, 26, 26, 26, 26, 26, 27, 27, 27, 27, 28, 28, 28, 28, 29, 29, 29, 30, 30, 30, 31, 31, 31, 32, 32, 32, 33, 33, 33, 33, 34, 34, 34, 35, 35, 35, 35, 36, 36, 37, 37, 37, 37, 37, 38, 38, 38, 38, 38, 39, 39, 39, 39, 39, 40, 40, 40, 40, 40, 41, 41, 42, 42, 42, 43, 43, 43, 43, 44, 44, 44, 44, 45, 45, 45, 45, 46, 46, 46, 46, 47, 47, 47, 47, 47, TROTKE, TROTKE, 48, 48, 48, 48, 48, 49, 49, 49, 49, 50, 50, 50, 50, 50, 51, 51, 51, 51, 52, 52, 52, 53, 53, 53, 54, 54, 54, 55, 55, 55, 55, 56, 56, 56, 57, 57, 57, 57, 58, 58, 58, 58, 59, 59, 59, 59, 60, 60, 60, 60, 61, 61, 61, 61, 62, 62, 62, 62, 63, 63, 63, 63, 64, 64, 64, 64, 65, 65, 65, 65, 66, 66, 66, 67, 67, 67, 67, 68, 68, 68, 69, 69, 69, 70, 70, 70, 71, 71, 71, 71, 72, 72, 72, 73, 73, TFOTRE, TFOTRE, 74, 74, 74, 75, 75, 75, 75, 75, 75, 76, 76, 76, 77, 77, 77, 77, 78, 78, 78, 78, 78, 79, 79, 79, 80, 80, 80, 80, 81, 81, 81, 82, 82, 82, 82, 82, 82, 82, 82, 83, 83, 83, 83, 83, 83, 84, 84, 84, 84, 84, 84, 84, 85, 85, 85, 85, 86, 86, 86, 87, 87, 87, 88, 88, 88, 89, 89, 89, 89, 90, 90, 90, 90, 91, 91, 91, 91
-Amon-Sul - 12, 37
-Aragorn - 1, 1, 3, 5, 6, 6, 9, 21, 37, TROTKE, 61, 76, 78
-Arwen - TFOTRE, TFOTRE
-Baggage Train - 69
-Balin - 85, 85
-Balrog - 22, 85
-Barrow-wights - 80
-Battering Ram - 31
-Berserker - 30
-Bilbo - 62
-Black Gate - 77
-Boromir - 11, 60
-Bree - 61
-Brego - TROTKE
-Bruinen - TFOTRE
-Bucklebury Ferry - 37
-Cave Trolls - 21, 75, 83
-Cirith Ungol - 49
-Corsair Galley - 76
-Corsairs of Umbar - 76
-Demolition Charge - 31
-Denethor - 57
-Dol Amroth - 88
-Druadan Forest - 89, 89, 89
-Dwarf Adventurer - 75
-Dwarf Captain - 83
-Dwarves - 83, 85
-Eagles - 54, 54
-Easterlings - 77
-Edoras - 52, 64
-Elrond - 36
-Elven Scout - 75
-Ents - 79
-Eomer - 7, TTTSE, 18, 18, 27, 64, 65
-Eowyn - 52
-Fangorn - 17, 18
-Faramir - 26, 41, 43, 58, 59, 63
-Farmer Maggot - 90, 90
-Fell Beast - 72
-Fences - 68
-Frodo - 3, 5, 8, 25, 25, 25, 37, 37, 61, 62, 63, 63, TFOTRE, 80, 90
-Galadriel - 8
-Gamling - TTTSE, 51
-Gandalf - 12, 12, 13, TTTSE, TTTSE, 38, 54, 56, 62
-Ghan-buri-Ghan - 89
-Gimli - 9, 21, 21, 76
-Glorfindel - 81
-Goldberry - 80
-Gollum - 63, 63
-Gondor - 23, TROTKE, 56, 59, 60, 66, 73, 73, 75
-Gondor Rangers - 26, 63
-Gothmog - 56
-Gothmog's Lieutenant - 75
-Grima - 64
-Gwaihir - 54, 79
-Haldir - 28
-Hama - 53
-Harad - 86, 86, 87
-Haradrim - 70, 88
-Hasharin - 87
-Hedgerows - 68
-Helm's Deep - 6, 6, TTTSE, 28, 29, 30
-High Elves - 2, 4, 36, 81
-Hills - 68
-Hobbits - 90
-Horses - 13, 18
-Isengard - 16, 32, 38, 54, 66, 74
-Ithilien - 26, 63
-King Durburz - 84
-King of the Dead - 71
-Knights of Gondor - 23, 59
-Legolas - 8, 8, 9, 21, 76, 76
-Lorien - 36
-Lothlorien - 35
-Lurtz - 5, 5, 10, 11, 15
-Magician - 75
-Meduseld - 52
-Men of Dunland - 67
-Men of Gondor - 2
-Merry - 18, 32, 32, 37, 37, 61, 62, 73, 80, 90
-Minas Tirith - TROTKE, 56, 70, 73
-Mirkwood - 79
-Mordor - 24, 24, 44, 45, 46, 49, 58, 63, 66, 73, 77, 77
-Mordor Orcs - 17, 18, 23, 25, 26, 33, 36, 41, 41, 42, 43, 44, 45, 49, 56, 58, 59, 63, 81, 89, 89, 89
-Mordor Trolls - 42
-Morgul Orcs - 72, 72
-Moria - 19, 20, 20, 21, 22, 22, 22, 74, 83, 85
-Moria Goblins - 1, 2, 8, 15, 20, 20, 21, 22, 23, 35, 36, 81, 83, 85
-Mount Doom - 77
-Orc Shaman - 75
-Orcs - 32, 54, 65
-Orthanc - 13, 38, 54
-Osgiliath - 25, 33, 33, 34, 34, 41, 42, 43, 59, 60
-Palantir - 13
-Patterns and Marking - 13
-Pelennor Fields - 23, 70
-Pippin - 18, 32, 32, 37, 37, 61, 62, 73, 80, 90
-Prince Imrahil - 88
-Radagast - 79, 79
-Rangers of Gondor - 41, 58
-Riders of Rohan - 66, 69
-Ringwraiths - 3, 12, 37, 37, 61, 62, TFOTRE
-Rivendell - 81
-Rohan - 7, 7, 9, 13, 13, 14, 15, TTTSE, 17, 18, 23, 27, 29, 30, 38, 40, 50, 52, 55, 64, 65, 66, 68, 69, 74, 89, 89, 89
-Rohirrim - 40
-Ruffians - 90
-Ruins - 6
-Sam - 25, 25, 37, 37, 49, 61, 62, 63, 63, 80, 90
-Samwise - 25
-Saruman - 13, 15, 38, 54
-Sauron - 46
-Second Age - 2
-Shadowfax - TTTSE
-Sharkey - 90, 91
-Sharku - 69
-Shelob - 63, 72
-Siege Balista - 31
-South Gondor - 88
-Suladan - 86
-Tactics - 36, 42, 43, 52, 53
-The Barrow Downs - 80
-The Fellowship - 1, 11, 15, 19, 20, 21, 22, 35
-The Last Alliance - 44, 45, 46
-The Shire - 62, 90, 90
-The Watcher - 19
-Theoden - TTTSE, 29, 31, 38
-Theodred - 65
-Tom Bombadil - 80, 80
-Treebeard - 32, 32, 79
-Trees - 68
-Trolls - 41, 72
-Ugluk - 15, 16
-Uruk-hai - 4, 5, 6, 7, 9, 9, 11, 14, 15, TTTSE, 17, 18, 23, 27, 29, 30, 32, 49, 52, 65, 79
-Veteran Warrior - 75
-Warg Riders - 40, 65, 68, 69, 79
-Warriors of Gondor - 25, 33, 41, 42, 43, 57, 60, 87
-Weathertop - 12, 37
-Wilds - 1
-Witch King - 74
-Wood Elves - 29, 35, 36, 36
-Worm - 90
+
+# Index
+*  - 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 6, 6, 6, 7, 7, 7, 8, 8, 8, 8, 9, 9, 9, 9, 9, 10, 10, 10, 10, 11, 11, 11, 12, 12, 12, 13, 13, 14, 14, 14, 14, 15, 15, 15, 15, 15, TTTSE, 16, 16, 16, 17, 17, 17, 17, 18, 18, 18, 19, 19, 19, 19, 20, 20, 20, 21, 21, 22, 22, 22, 23, 23, 23, 23, 24, 24, 24, 25, 25, 26, 26, 26, 26, 26, 27, 27, 27, 27, 28, 28, 28, 28, 29, 29, 29, 30, 30, 30, 31, 31, 31, 32, 32, 32, 33, 33, 33, 33, 34, 34, 34, 35, 35, 35, 35, 36, 36, 37, 37, 37, 37, 37, 38, 38, 38, 38, 38, 39, 39, 39, 39, 39, 40, 40, 40, 40, 40, 41, 41, 42, 42, 42, 43, 43, 43, 43, 44, 44, 44, 44, 45, 45, 45, 45, 46, 46, 46, 46, 47, 47, 47, 47, 47, TROTKE, TROTKE, 48, 48, 48, 48, 48, 49, 49, 49, 49, 50, 50, 50, 50, 50, 51, 51, 51, 51, 52, 52, 52, 53, 53, 53, 54, 54, 54, 55, 55, 55, 55, 56, 56, 56, 57, 57, 57, 57, 58, 58, 58, 58, 59, 59, 59, 59, 60, 60, 60, 60, 61, 61, 61, 61, 62, 62, 62, 62, 63, 63, 63, 63, 64, 64, 64, 64, 65, 65, 65, 65, 66, 66, 66, 67, 67, 67, 67, 68, 68, 68, 69, 69, 69, 70, 70, 70, 71, 71, 71, 71, 72, 72, 72, 73, 73, TFOTRE, TFOTRE, 74, 74, 74, 75, 75, 75, 75, 75, 75, 76, 76, 76, 77, 77, 77, 77, 78, 78, 78, 78, 78, 79, 79, 79, 80, 80, 80, 80, 81, 81, 81, 82, 82, 82, 82, 82, 82, 82, 82, 83, 83, 83, 83, 83, 83, 84, 84, 84, 84, 84, 84, 84, 85, 85, 85, 85, 86, 86, 86, 87, 87, 87, 88, 88, 88, 89, 89, 89, 89, 90, 90, 90, 90, 91, 91, 91, 91
+* Amon-Sul - 12, 37
+* Aragorn - 1, 1, 3, 5, 6, 6, 9, 21, 37, TROTKE, 61, 76, 78
+* Arwen - TFOTRE, TFOTRE
+* Baggage Train - 69
+* Balin - 85, 85
+* Balrog - 22, 85
+* Barrow-wights - 80
+* Battering Ram - 31
+* Berserker - 30
+* Bilbo - 62
+* Black Gate - 77
+* Boromir - 11, 60
+* Bree - 61
+* Brego - TROTKE
+* Bruinen - TFOTRE
+* Bucklebury Ferry - 37
+* Cave Trolls - 21, 75, 83
+* Cirith Ungol - 49
+* Corsair Galley - 76
+* Corsairs of Umbar - 76
+* Demolition Charge - 31
+* Denethor - 57
+* Dol Amroth - 88
+* Druadan Forest - 89, 89, 89
+* Dwarf Adventurer - 75
+* Dwarf Captain - 83
+* Dwarves - 83, 85
+* Eagles - 54, 54
+* Easterlings - 77
+* Edoras - 52, 64
+* Elrond - 36
+* Elven Scout - 75
+* Ents - 79
+* Eomer - 7, TTTSE, 18, 18, 27, 64, 65
+* Eowyn - 52
+* Fangorn - 17, 18
+* Faramir - 26, 41, 43, 58, 59, 63
+* Farmer Maggot - 90, 90
+* Fell Beast - 72
+* Fences - 68
+* Frodo - 3, 5, 8, 25, 25, 25, 37, 37, 61, 62, 63, 63, TFOTRE, 80, 90
+* Galadriel - 8
+* Gamling - TTTSE, 51
+* Gandalf - 12, 12, 13, TTTSE, TTTSE, 38, 54, 56, 62
+* Ghan-buri-Ghan - 89
+* Gimli - 9, 21, 21, 76
+* Glorfindel - 81
+* Goldberry - 80
+* Gollum - 63, 63
+* Gondor - 23, TROTKE, 56, 59, 60, 66, 73, 73, 75
+* Gondor Rangers - 26, 63
+* Gothmog - 56
+* Gothmog's Lieutenant - 75
+* Grima - 64
+* Gwaihir - 54, 79
+* Haldir - 28
+* Hama - 53
+* Harad - 86, 86, 87
+* Haradrim - 70, 88
+* Hasharin - 87
+* Hedgerows - 68
+* Helm's Deep - 6, 6, TTTSE, 28, 29, 30
+* High Elves - 2, 4, 36, 81
+* Hills - 68
+* Hobbits - 90
+* Horses - 13, 18
+* Isengard - 16, 32, 38, 54, 66, 74
+* Ithilien - 26, 63
+* King Durburz - 84
+* King of the Dead - 71
+* Knights of Gondor - 23, 59
+* Legolas - 8, 8, 9, 21, 76, 76
+* Lorien - 36
+* Lothlorien - 35
+* Lurtz - 5, 5, 10, 11, 15
+* Magician - 75
+* Meduseld - 52
+* Men of Dunland - 67
+* Men of Gondor - 2
+* Merry - 18, 32, 32, 37, 37, 61, 62, 73, 80, 90
+* Minas Tirith - TROTKE, 56, 70, 73
+* Mirkwood - 79
+* Mordor - 24, 24, 44, 45, 46, 49, 58, 63, 66, 73, 77, 77
+* Mordor Orcs - 17, 18, 23, 25, 26, 33, 36, 41, 41, 42, 43, 44, 45, 49, 56, 58, 59, 63, 81, 89, 89, 89
+* Mordor Trolls - 42
+* Morgul Orcs - 72, 72
+* Moria - 19, 20, 20, 21, 22, 22, 22, 74, 83, 85
+* Moria Goblins - 1, 2, 8, 15, 20, 20, 21, 22, 23, 35, 36, 81, 83, 85
+* Mount Doom - 77
+* Orc Shaman - 75
+* Orcs - 32, 54, 65
+* Orthanc - 13, 38, 54
+* Osgiliath - 25, 33, 33, 34, 34, 41, 42, 43, 59, 60
+* Palantir - 13
+* Patterns and Marking - 13
+* Pelennor Fields - 23, 70
+* Pippin - 18, 32, 32, 37, 37, 61, 62, 73, 80, 90
+* Prince Imrahil - 88
+* Radagast - 79, 79
+* Rangers of Gondor - 41, 58
+* Riders of Rohan - 66, 69
+* Ringwraiths - 3, 12, 37, 37, 61, 62, TFOTRE
+* Rivendell - 81
+* Rohan - 7, 7, 9, 13, 13, 14, 15, TTTSE, 17, 18, 23, 27, 29, 30, 38, 40, 50, 52, 55, 64, 65, 66, 68, 69, 74, 89, 89, 89
+* Rohirrim - 40
+* Ruffians - 90
+* Ruins - 6
+* Sam - 25, 25, 37, 37, 49, 61, 62, 63, 63, 80, 90
+* Samwise - 25
+* Saruman - 13, 15, 38, 54
+* Sauron - 46
+* Second Age - 2
+* Shadowfax - TTTSE
+* Sharkey - 90, 91
+* Sharku - 69
+* Shelob - 63, 72
+* Siege Balista - 31
+* South Gondor - 88
+* Suladan - 86
+* Tactics - 36, 42, 43, 52, 53
+* The Barrow Downs - 80
+* The Fellowship - 1, 11, 15, 19, 20, 21, 22, 35
+* The Last Alliance - 44, 45, 46
+* The Shire - 62, 90, 90
+* The Watcher - 19
+* Theoden - TTTSE, 29, 31, 38
+* Theodred - 65
+* Tom Bombadil - 80, 80
+* Treebeard - 32, 32, 79
+* Trees - 68
+* Trolls - 41, 72
+* Ugluk - 15, 16
+* Uruk-hai - 4, 5, 6, 7, 9, 9, 11, 14, 15, TTTSE, 17, 18, 23, 27, 29, 30, 32, 49, 52, 65, 79
+* Veteran Warrior - 75
+* Warg Riders - 40, 65, 68, 69, 79
+* Warriors of Gondor - 25, 33, 41, 42, 43, 57, 60, 87
+* Weathertop - 12, 37
+* Wilds - 1
+* Witch King - 74
+* Wood Elves - 29, 35, 36, 36
+* Worm - 90

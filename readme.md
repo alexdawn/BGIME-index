@@ -2,7 +2,7 @@
 
 BGIME was a part-works magazine that ran in the early 2000s, which taught you how to play, paint and create scenary for the Games Workshop Lord of the Rings game. After being away from the game for many years I've finally finished my collection of magazines, but with 91 issues (plus three specials) it is quite hard to keep track of where it all is.
 
-This github contains a contents (grouped by category) and index
+This github contains a contents (grouped by category) and index. That is published as a github pages <https://alexdawn.github.io/BGIME-index/>
 
 ## Format
 
