@@ -1,23 +1,16 @@
 # Battle Games In Middle-earth Contents list and IndexHere is a complete list of the articles in the BGIME magazines
-    grouped by category
 
-    [Guide](#Guides)
+grouped by category
 
-    [Rules](#Rules)
+[Guide](#Guides)
+[Rules](#Rules)
+[Army Lists](#Army-Lists)
+[Campaigns](#Campaigns)
+[Scenarios](#Scenarios)
+[Battle Reports](#Battle-Reports)
+[Painting](#Painting)
+[Modelling](#modelling)
 
-    [Army Lists](#Army-Lists)
-
-    [Campaigns](#Campaigns)
-
-    [Scenarios](#Scenarios)
-
-    [Battle Reports](#Battle-Reports)
-
-    [Painting](#Painting)
-
-    [Modelling](#modelling)
-
-    
 ## Guides
 * 1      - The Fellowship                                     -   p1-3
 * 1      - Aragorn, King of Men                               -   p4-5
